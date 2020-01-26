@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "sawalqeh"
+    },
+    {
+      "name": "ahmad",
+      "_id": "eLFMyK9"
+    },
+    {
+      "name": "ahmad",
+      "display_name": "new stuff",
+      "description": "brand new products",
+      "_id": "hB8VaWY"
+    }
+  ],
+  "products": [
+    {
+      "_id": "5",
+      "name": "new put method uesd"
+    },
+    {
+      "name": "sawalqeh",
+      "_id": "0g8PCVO"
+    },
+    {
+      "name": "new data from swagger",
+      "_id": "lO5fn9i"
+    }
+  ]
+}
